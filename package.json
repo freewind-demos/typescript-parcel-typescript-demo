@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "parcel serve src/index.html --open"
+    "start": "parcel serve src/index.html --open --no-cache"
   },
   "devDependencies": {
     "parcel": "2.11.0",
